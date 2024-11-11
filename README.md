@@ -29,8 +29,8 @@ This project uses a DCGAN, a type of GAN (Generative Adversarial Network), where
    ```
 
 4. Run the Training Script:
+   - The training script will download the MNIST dataset (if not already present) and begin training the GAN.
    ```sh
-   The training script will download the MNIST dataset (if not already present) and begin training the GAN.
    python train.py
    ```
 
